@@ -1,0 +1,13 @@
+body {
+    background: blue;
+}
+h1 {
+    font-size: 100px;
+    color: purple;
+    text-align: center;
+}
+p {
+    font-size: 50px;
+    color: purple;
+    text-align: center
+}
